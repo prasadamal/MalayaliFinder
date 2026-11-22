@@ -1,0 +1,25 @@
+MALAYALIFINDER — PROMPT ME
+===========================
+Last updated: 23 November 2026. Founder: Amal Prasad (company Ariyoo). Status: PARKED.
+
+THE IDEA
+"Find your Mallu tribe": a Flutter app (Android/iOS) to help Malayalis find each other anywhere
+in the world — an animated radar of nearby Malayalis, a map, and an event planner (food, sports,
+cultural, music, travel meetups).
+
+WHERE IT STANDS (from the 16 Nov portfolio analysis)
+- UI prototype from a single commit in March. The radar's people are generated with Random()
+  around your location and events are hard-coded. No backend, no accounts, no tests, no CI.
+- A live radar of strangers by community raises real safety and store-policy problems.
+
+WHAT IS WORTH KEEPING / THE VIABLE END PRODUCT
+- The audience: the Malayali diaspora (Gulf, Bangalore, UK, US) is large, organised and
+  underserved, and the founder understands it.
+- The viable product is events and associations (Onam gatherings, food meetups, a directory),
+  NOT a radar of people. Cheapest first test: a shareable Kerala quiz web page.
+- ReelMates' Malayalam cinema collection already reaches the same audience.
+
+ON HOLD
+Everything. Rule from the analysis: no new product until one of the live apps (Forward,
+ReelMates, Wayfare, Ariyoo) has 500 weekly users. Other apps: see
+github.com/prasadamal/ariyoo-clone PROMPT_ME.txt.
